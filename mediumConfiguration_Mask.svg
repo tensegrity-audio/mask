@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8192 6203.6">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #00a651;
+        stroke-miterlimit: 6.32;
+        stroke-width: 6.32px;
+      }
+
+      .cls-3 {
+        filter: url(#luminosity-noclip);
+      }
+    </style>
+    <filter id="luminosity-noclip" x="0" y="0" width="8192" height="6203.6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="0" y="0" width="8192" height="6203.6" maskUnits="userSpaceOnUse">
+      <g class="cls-3">
+        <g>
+          <g id="window1">
+            <path class="cls-2" d="M1272.45,4184.85v-574.7c0-97.57,79.09-176.66,176.66-176.66s176.66,79.09,176.66,176.66v574.7"/>
+          </g>
+          <g id="window2">
+            <path class="cls-2" d="M2281.94,4184.85v-574.7c0-97.57-79.09-176.66-176.66-176.66s-176.66,79.09-176.66,176.66v574.7"/>
+          </g>
+          <g id="window3">
+            <path class="cls-2" d="M2584.78,4184.85v-574.7c0-97.57,79.09-176.66,176.66-176.66s176.66,79.09,176.66,176.66v574.7"/>
+          </g>
+          <g id="window4">
+            <path class="cls-2" d="M3240.94,4184.85v-574.7c0-97.57,79.09-176.66,176.66-176.66s176.66,79.09,176.66,176.66v574.7"/>
+          </g>
+          <g id="window5">
+            <path class="cls-2" d="M5114.39,4184.85v-574.7c0-97.57-79.09-176.66-176.66-176.66s-176.66,79.09-176.66,176.66v574.7"/>
+          </g>
+          <g id="window6">
+            <path class="cls-2" d="M5770.54,4184.85v-574.7c0-97.57-79.09-176.66-176.66-176.66s-176.66,79.09-176.66,176.66v574.7"/>
+          </g>
+          <g id="window7">
+            <path class="cls-2" d="M6073.38,4184.85v-574.7c0-97.57,79.09-176.66,176.66-176.66s176.66,79.09,176.66,176.66v574.7"/>
+          </g>
+          <g id="window8">
+            <path class="cls-2" d="M7082.87,4184.85v-574.7c0-97.57-79.09-176.66-176.66-176.66s-176.66,79.09-176.66,176.66v574.7"/>
+          </g>
+          <g id="doorLeft">
+            <path class="cls-2" d="M4128.17,3283.57c-131.6,19.52-231.12,109.97-231.12,218.61v682.67"/>
+          </g>
+          <g id="doorRight">
+            <path class="cls-2" d="M4224.95,3283.57c131.6,19.52,231.12,109.97,231.12,218.61v682.67"/>
+          </g>
+          <g id="rightAnkleRight">
+            <line class="cls-2" x1="6110.02" y1="4351.35" x2="7439.35" y2="4351.35"/>
+          </g>
+          <g id="verticalRight">
+            <line class="cls-2" x1="7439.35" y1="3239.89" x2="7439.35" y2="4184.85"/>
+          </g>
+          <g id="verticalLeft">
+            <line class="cls-2" x1="915.97" y1="3239.89" x2="915.97" y2="4184.85"/>
+          </g>
+          <g id="rightAnkleLeft">
+            <line class="cls-2" x1="6054.13" y1="4351.35" x2="4763.3" y2="4351.35"/>
+          </g>
+          <g id="rightKneeRight">
+            <line class="cls-2" x1="6110.02" y1="4260.6" x2="7439.35" y2="4260.6"/>
+          </g>
+          <g id="rightKneeLeft">
+            <line class="cls-2" x1="6110.02" y1="4260.6" x2="4763.3" y2="4260.6"/>
+          </g>
+          <g id="leftAnkleLeft">
+            <line class="cls-2" x1="2261.24" y1="4351.35" x2="915.97" y2="4351.35"/>
+          </g>
+          <g id="leftAnkleRight">
+            <line class="cls-2" x1="2299.13" y1="4351.35" x2="3592.03" y2="4351.35"/>
+          </g>
+          <g id="leftKneeLeft">
+            <line class="cls-2" x1="2245.3" y1="4260.6" x2="915.97" y2="4260.6"/>
+          </g>
+          <g id="leftKneeRight">
+            <line class="cls-2" x1="2245.3" y1="4260.6" x2="3592.03" y2="4260.6"/>
+          </g>
+          <g id="browLeft">
+            <line class="cls-2" x1="4167.84" y1="3239.89" x2="915.97" y2="3239.89"/>
+          </g>
+          <g id="browRight">
+            <line class="cls-2" x1="4167.84" y1="3239.89" x2="7439.35" y2="3239.89"/>
+          </g>
+          <g id="eavesLeft">
+            <line class="cls-2" x1="4167.84" y1="2975.19" x2="2420.22" y2="2975.19"/>
+          </g>
+          <g id="eavesLeftReverse">
+            <line class="cls-2" x1="915.97" y1="2975.19" x2="2420.22" y2="2975.19"/>
+          </g>
+          <g id="eavesRight">
+            <line class="cls-2" x1="4167.84" y1="2975.19" x2="7429.53" y2="2975.19"/>
+          </g>
+          <g id="doorCenter">
+            <path id="_Path_" class="cls-2" d="M4226.02,3375.39c92.56,21.44,161.44,102.95,161.44,200.22v208.43h-419.82v-208.43c0-113.62,93.98-205.74,209.91-205.74,16.68,0,32.91,1.91,48.47,5.51"/>
+          </g>
+          <g id="rooftopLeft">
+            <line class="cls-2" x1="1638.18" y1="1694.51" x2="4914.98" y2="1698.58"/>
+          </g>
+          <g id="rooftopRight">
+            <line class="cls-2" x1="6708.36" y1="1696.54" x2="4914.99" y2="1696.54"/>
+          </g>
+          <g id="roofSlopeLeft">
+            <line class="cls-2" x1="915.97" y1="2975.19" x2="1637.16" y2="1695.05"/>
+          </g>
+          <g id="roofSlopeRight">
+            <line class="cls-2" x1="7429.53" y1="2975.19" x2="6708.34" y2="1695.05"/>
+          </g>
+        </g>
+      </g>
+    </mask>
+  </defs>
+  <g class="cls-1">
+    <rect width="8192" height="6203.6"/>
+  </g>
+</svg>
